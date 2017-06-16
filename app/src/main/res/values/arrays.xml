@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="payment_methods">
+        <item>@string/txt_card</item>
+        <item>@string/txt_stamp</item>
+        <item>@string/txt_check</item>
+        <item>@string/txt_cash</item>
+    </string-array>
+</resources>
